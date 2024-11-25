@@ -1,0 +1,14 @@
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\bin\Debug\net9.0\MeuQuiz.exe
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\bin\Debug\net9.0\MeuQuiz.deps.json
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\bin\Debug\net9.0\MeuQuiz.runtimeconfig.json
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\bin\Debug\net9.0\MeuQuiz.dll
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\bin\Debug\net9.0\MeuQuiz.pdb
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.AssemblyInfoInputs.cache
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.AssemblyInfo.cs
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.dll
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\refint\MeuQuiz.dll
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.pdb
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\MeuQuiz.genruntimeconfig.cache
+C:\Users\Taynara Politano\Desktop\ProjetosCsharp\MeuQuiz\obj\Debug\net9.0\ref\MeuQuiz.dll
